@@ -25,7 +25,7 @@ const pessoa = {
 }
 
 /* por padrão se evita alterar o valor de um objeto já criado,
-usar o assing */
+usar o assign */
 const novoObj = Object.assign(heroi, pessoa)
 
 // deletar objeto
